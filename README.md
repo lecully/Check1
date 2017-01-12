@@ -1,4 +1,4 @@
-# Materhorn Dataset
+# Materhorn Dataset - This is only a subset of the text for this dataset. - BEWARE!
 
 
 Scintec SoDAR/RASS Half Hour Averages Data
